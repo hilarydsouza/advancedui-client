@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "angular.ng-template",
+        "msjsdiag.debugger-for-edge",
+        "editorconfig.editorconfig",
+        "dbaeumer.vscode-eslint",
+        "humao.rest-client"
+    ]
+}
